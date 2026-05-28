@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to ydefi 👋
 
-<!--
-**ydefi/ydefi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are an open-source development collective building secure, scalable, and decentralized finance infrastructure. Our mission is to optimize capital efficiency and yield strategies through trustless smart contract protocols.
 
-Here are some ideas to get you started:
+### 🚀 What We Are Building
+* **DeFi Primitives**: Modular, audited smart contracts for developers.
+* **Yield Optimization**: Automated, non-custodial asset management layers.
+* **Cross-Chain Liquidity**: Seamless value routing across EVM ecosystems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Languages**: Solidity, Vyper, Rust, TypeScript
+* **Frameworks**: Foundry, Hardhat
+
+### 🤝 Connect With Us
+* 🌐 **Website**: [ydefi.org](https://github.com)
+* 🐦 **Twitter/X**: [@ydefi](https://github.com)
+* 💬 **Discord**: [Join our community](https://github.com)
