@@ -1,3 +1,4 @@
+![Developer Dashboard Banner](j-x-banner.jpg)
 # Welcome to ydefi 👋
 
 We are an open-source development collective building secure, scalable, and decentralized finance infrastructure. Our mission is to optimize capital efficiency and yield strategies through trustless smart contract protocols.
