@@ -14,5 +14,5 @@ We are an open-source development collective building secure, scalable, and dece
 
 ### 🤝 Connect With Us
 * 🌐 **Website**: [ydefi.org](https://github.com)
-* 🐦 **Twitter/X**: [@ydefi](https://github.com)
-* 💬 **Discord**: [Join our community](https://github.com)
+* 🐦 **Twitter/X**: [@ydefi](https://x.com/joop_web3)
+* 💬 **Discord**: [Join our community](https://discord.gg/4dCCvnJYGT)
