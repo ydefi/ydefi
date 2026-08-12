@@ -1,4 +1,4 @@
-![Developer Dashboard Banner](j-x-banner.jpg)
+![Developer Dashboard Banner](de-arete-banner.png)
 # Welcome to ydefi 👋
 
 We are an open-source development collective building secure, scalable, and decentralized finance infrastructure. Our mission is to optimize capital efficiency and yield strategies through trustless smart contract protocols.
@@ -13,6 +13,6 @@ We are an open-source development collective building secure, scalable, and dece
 * **Frameworks**: Foundry, Hardhat
 
 ### 🤝 Connect With Us
-* 🌐 **Website**: [ydefi.org](https://github.com)
-* 🐦 **Twitter/X**: [@ydefi](https://x.com/joop_web3)
+* 🌐 **Website**: [ydefi.org](https://github.com/ydefi)
+* 🐦 **Twitter/X**: [@ydefi](https://x.com/0xghost_dev)
 * 💬 **Discord**: [Join our community](https://discord.gg/4dCCvnJYGT)
