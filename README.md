@@ -47,8 +47,8 @@ I am a blockchain developer and security researcher focused on securing decentra
 ### 🤝 Connect With Us & Collaborate
 
 - 🌐 **Website:** [ydefi.org](https://github.com/ydefi)
-- 🐦 **Twitter/X:** [@ydefi](https://twitter/x/@ydefi)
-- 💬 **Discord:** [Join our community](https://discord.com/0xghost_dev)
+- 🐦 **Twitter/X:** [@0xghost_dev](https://twitter/x/0xghost_dev)
+- 💬 **Discord:** [@0xghost_dev](https://discord.com/1531129504502907092)
 
 ---
 *“Securing the future of finance, one block at a time.”*
